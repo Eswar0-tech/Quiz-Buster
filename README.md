@@ -1,6 +1,6 @@
 # 🚀 Quiz Buster: API-Driven Quiz & Quote Generator
 
-A dynamic, dual-feature web application developed as part of the ApexPlanet Web Development Internship. This project demonstrates asynchronous JavaScript programming by integrating multiple external APIs to fetch live data for a technical quiz and a random quote generator.
+A dynamic, dual-feature web application developed as part of the  Web Development Internship. This project demonstrates asynchronous JavaScript programming by integrating multiple external APIs to fetch live data for a technical quiz and a random quote generator.
 
 ## 🌟 Live Demo
 *(If you are hosting this on GitHub Pages or Vercel, put the link here. Otherwise, you can remove this line)*
@@ -61,4 +61,5 @@ The project features a **Professional Dark Mode** UI (Midnight Blue & Electric C
 ```text
 /
 ├── index.html        # Contains HTML structure, CSS styles, and JS Logic
+
 ├── README.md         # Project documentation
